@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"publicChain/part3-Basic-Prototype/BLC"
+	"publicChain/part5-proof-of-work/BLC"
 )
 
 // 工作量证明
